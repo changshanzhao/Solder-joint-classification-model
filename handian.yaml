@@ -1,6 +1,6 @@
-    path: /home/rmus/ultralytics/cropdata/cropdata
+    path: ./cropdata/cropdata
     train: images/train    #图片路径
     val: images/val      #图片路径
     nc: 10                                                            #class种类数
     names: ['CZ', 'RZ', 'BZ', 'CS', 'RS', 'BS', 'CF', 'RF', 'BF', 'L'] #种类命名
-    date: '2023/8/8'                                                 #最后修改日期
+    date: '2023/8/19'                                                 #最后修改日期
