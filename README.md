@@ -1,4 +1,4 @@
-# 主要就是开源一下数据集和训练好的模型，模型就是YOLOv8，实测效果不错。
+# 主要就是开源一下数据集和训练好的模型，模型就是YOLOv8，实测效果不错
 <div align="center">
   <p>
     <a href="https://ultralytics.com/yolov8" target="_blank">
